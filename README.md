@@ -3,7 +3,7 @@
 <!--
 **tehzzohwan/tehzzohwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Bobby Enomate an intermediate software developer
+I'm Bobby an intermediate software developer
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning how the backend works with Node.js Express
