@@ -6,7 +6,7 @@
 I'm Bobby an intermediate software developer
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning how the backend works with Mongoose MongoDB
+<!-- - 🌱 I’m currently learning how the backend works with Mongoose MongoDB -->
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about React.js
 - 📫 How to reach me: enomatebobby@gmail.com
